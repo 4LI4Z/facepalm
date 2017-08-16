@@ -1,0 +1,70 @@
+.Input-Title {
+  font-size: large;
+}
+
+.Go-Button {
+  background-color: #222;
+  width: 100%;
+  height: 40px;
+  color: white;
+  font-size: large;
+  text-align: center;
+  text-transform: uppercase;
+  text-transform: full-width;
+  border-radius: 4px;
+}
+
+.Data {
+  text-align: left;
+  font-family: monospace;
+  font-size: small;
+}
+
+.Form-Input {
+  border-radius: 2px;
+  text-align: center;
+  font-size: medium;
+  border: 1px solid #222;
+  width: 100%;
+  height: 20px;
+  background-color: white;
+
+}
+
+.Form-Input-Number {
+  width: 10%;
+}
+
+ul {
+  list-style: none;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: #222;
+  text-decoration: underline;
+}
+
+a:active {
+  color: hotpink;
+  text-decoration: none;
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    margin: 0 auto;
+    color: #222;
+    background-color: #222;
+}
