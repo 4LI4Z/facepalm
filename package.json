@@ -1,6 +1,11 @@
 {
-  "name": "facepalm_dev",
+  "name": "facepalm",
   "version": "0.1.0",
+  "license" : "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/4LI4Z/facepalm",
+  "bugs": {
+    "url" : "https://github.com/owner/project/issues"
+   },
   "private": true,
   "dependencies": {
     "fbgraph": "1.4.1",
